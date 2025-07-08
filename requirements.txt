@@ -1,0 +1,9 @@
+pandas
+requests
+pymongo
+azure-storage-blob
+azure-functions
+pyodbc
+sqlalchemy
+python-dotenv
+psycopg2-binary
